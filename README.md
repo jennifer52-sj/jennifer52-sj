@@ -1,16 +1,100 @@
-## Hi there 👋
+# Seojeong Kim (Jennifer) · 김서정
 
-<!--
-**jennifer52-sj/jennifer52-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring data analyst** focused on **automotive · battery · autonomous-driving** domains.  
+자동차·배터리·자율주행 데이터 분석을 목표로 준비 중입니다.
 
-Here are some ideas to get you started:
+Currently: **Overseas Sales @ Coros Battery** (Suwon) · Founder of **[Rose Morning](https://rose-morning-8c171.web.app)**  
+현재: Coros Battery 해외영업 · Rose Morning 창업/운영
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/seojeong-kim-0b991b2a4) · [Rose Morning](https://rose-morning-8c171.web.app) · [YouTube · Daily Jennie](https://www.youtube.com/@Seojeoong-2)
+
+---
+
+## About · 소개
+
+Hannam University graduate (Feb 2026) in **English Language & Literature**, with a **teaching-certificate track** and **Mechanical Engineering** multi-major.  
+한남대 영어영문학 · 교직이수 · 기계공학 다전공 (2026.02 졸업, GPA 3.5/4.5).
+
+Selected as **1 of 2 Hannam students** for the **UC San Diego Qualcomm Institute AI** program (Jan–Feb 2024).  
+한남대에서 2명 선발된 UCSD Qualcomm Institute AI 프로그램 이수.
+
+Building on battery-industry exposure and AI learning-product experience, I’m pivoting toward **data analytics**.  
+배터리 산업 경험과 AI 학습 제품 경험을 바탕으로 데이터 분석으로 확장 중입니다.
+
+---
+
+## Experience · 경력
+
+### Overseas Sales · Coros Battery (Suwon)
+**Oct 2026 – Present**  
+International sales at a battery manufacturer — purchase orders, freight, logistics, and English communication with global clients.  
+배터리 제조사 해외영업: 오더·운임·물류 조율 및 글로벌 고객 영어 커뮤니케이션.
+
+### Founder · Rose Morning *(side)*
+**Oct 2026 – Present** · [Website](https://rose-morning-8c171.web.app)  
+AI-enabled English learning brand: website, curriculum, metaverse/3D learning spaces, SEO registration, ChannelTalk support.  
+AI 기반 영어 학습 브랜드: 웹·커리큘럼·메타버스/3D 학습 공간·SEO·고객 상담 구축.
+
+---
+
+## Projects · 프로젝트
+
+### Rose Morning — AI-enabled digital learning product
+- Public site: https://rose-morning-8c171.web.app  
+- 3D web school: https://rose-morning-8c171.web.app/school3d/  
+- ZEP virtual school: https://zep.us/play/nza4qb  
+- Google sign-in · Google Search Console / Naver Search Advisor · ChannelTalk  
+- Iterating Three.js 3D UX from user feedback *(in progress)*
+
+### UCSD Qualcomm Institute AI Capstone (Jan–Feb 2024)
+Participated in AI prediction work on osteoarthritis / osteoporosis (healthcare), presented at KICS.  
+골관절염·골다공증 AI 예측 연구에 참여, 학회 발표.
+
+### Content · 콘텐츠 *(side)*
+- **Daily Jennie** — English culture Shorts · [YouTube](https://www.youtube.com/@Seojeoong-2) · [Instagram @jennifer_sjkim](https://www.instagram.com/jennifer_sjkim/)
+- **Artbook** — one-page book-summary Reels · [Instagram @artbook_1page](https://www.instagram.com/artbook_1page/)
+- Autonomous-driving news daily briefing routine (personal)
+
+---
+
+## Publication · 논문
+
+**건강설문조사 데이터를 활용한 인공지능 알고리즘 기반 여성의 골관절염 및 골다공증 진단 예측 모델 개발**  
+KICS Summer Conference 2024 (한국통신학회 하계종합학술발표회), June 2024  
+*Published under former legal name: Kim Jeong-eun (김정은)*
+
+---
+
+## Education · 학력
+
+| | |
+|---|---|
+| **Hannam University** | English Language & Literature · Teaching-certificate track · Mechanical Engineering multi-major · Grad. Feb 2026 · GPA 3.5/4.5 |
+| **UC San Diego · Qualcomm Institute** | AI Capstone · Jan–Feb 2024 |
+| **Universiti Sains Malaysia** | Exchange |
+| **Presbyterian College (USA)** | Language study · 2023 |
+
+**Credentials** · OPIc IH (Sep 2026) · Secondary English Teacher Certificate Grade 2 (Feb 2026) · Computer Specialist Grade 2 (2020)
+
+---
+
+## Skills · 스킬
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white)
+![AI](https://img.shields.io/badge/AI-412991?style=flat&logo=openai&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat&logo=google&logoColor=white)
+
+**Languages** · Korean (native) · English · Chinese  
+한국어 · 영어 · 중국어
+
+---
+
+## Contact · 연락
+
+[linkedin.com/in/seojeong-kim-0b991b2a4](https://www.linkedin.com/in/seojeong-kim-0b991b2a4)
+
+---
+
+<sub>Portfolio also on Notion · facts kept to verified experience only.</sub>
