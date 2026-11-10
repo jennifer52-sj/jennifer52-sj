@@ -40,11 +40,19 @@ AI 기반 영어 학습 브랜드: 웹·커리큘럼·메타버스/3D 학습 공
 ## Projects · 프로젝트
 
 ### Rose Morning — AI-enabled digital learning product
-- Public site: https://rose-morning-8c171.web.app  
-- 3D web school: https://rose-morning-8c171.web.app/school3d/  
-- ZEP virtual school: https://zep.us/play/nza4qb  
-- Google sign-in · Google Search Console / Naver Search Advisor · ChannelTalk  
+- Public site: https://rose-morning-8c171.web.app
+- 3D web school: https://rose-morning-8c171.web.app/school3d/
+- ZEP virtual school: https://zep.us/play/nza4qb
+- Google sign-in · Google Search Console / Naver Search Advisor · ChannelTalk
 - Iterating Three.js 3D UX from user feedback *(in progress)*
+
+### JEWEL — KakaoTalk AI counseling chatbot for Rose Morning
+**Nov 2026 – Present** · [KakaoTalk chat](http://pf.kakao.com/_CPUxeX/chat)
+- Channel @jewel7: answers class format, fees, and free-trial questions from an official knowledge base, and also listens to personal worries
+- Google Gemini (`gemini-3.5-flash-lite`) · Kakao i OpenBuilder skill server · Cloudflare Workers (`https://jewel-bot.jewel7.workers.dev`, bot release v2.7)
+- Conversation memory (last 6 turns, 30-minute idle TTL) in cloud storage; fixed replies for frequent questions to stay within Kakao’s ~4-second timeout
+- Warm, empathetic INFJ persona; human counselor handoff via the in-chat button
+- 카카오톡 채널 @jewel7 AI 상담 봇. 로컬(ngrok) 서버를 클라우드로 옮겨 노트북을 꺼도 응답하도록 구축·운영 중. 테스트 기준 보통 1.5–2초 내 응답.
 
 ### UCSD Qualcomm Institute AI Capstone (Jan–Feb 2024)
 Participated in AI prediction work on osteoarthritis / osteoporosis (healthcare), presented at KICS.  
