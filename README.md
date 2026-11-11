@@ -54,6 +54,13 @@ AI 기반 영어 학습 브랜드: 웹·커리큘럼·메타버스/3D 학습 공
 - Warm, empathetic INFJ persona; human counselor handoff via the in-chat button
 - 카카오톡 채널 @jewel7 AI 상담 봇. 로컬(ngrok) 서버를 클라우드로 옮겨 노트북을 꺼도 응답하도록 구축·운영 중. 테스트 기준 보통 1.5–2초 내 응답.
 
+### ETF Desktop Widget — live ETF price watcher
+**Nov 2026 – Present**
+- Windows desktop widget that shows live ETF prices (USD and KRW), the day’s percent change, and the USD/KRW rate, with a watchlist and pinned favorites
+- Frameless on-desktop window (no taskbar button, rounded corners, remembers position and size, single instance) that auto-fits its height to pinned tickers
+- Built in C# / .NET with Windows Forms and Microsoft WebView2; first launched as an Edge app-mode shortcut, then moved to a native desktop app
+- 브라우저를 열지 않고 데스크톱에서 ETF 시세와 원달러 환율을 보는 윈도우 위젯. C#·WebView2로 구현.
+
 ### UCSD Qualcomm Institute AI Capstone (Jan–Feb 2024)
 Participated in AI prediction work on osteoarthritis / osteoporosis (healthcare), presented at KICS.  
 골관절염·골다공증 AI 예측 연구에 참여, 학회 발표.
@@ -93,6 +100,7 @@ KICS Summer Conference 2024 (한국통신학회 하계종합학술발표회), Ju
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-412991?style=flat&logo=openai&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat&logo=google&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 **Languages** · Korean (native) · English · Chinese  
 한국어 · 영어 · 중국어
