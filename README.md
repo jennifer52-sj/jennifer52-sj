@@ -59,7 +59,8 @@ AI 기반 영어 학습 브랜드: 웹·커리큘럼·메타버스/3D 학습 공
 - Windows desktop widget that shows live ETF prices (USD and KRW), the day’s percent change, and the USD/KRW rate, with a watchlist and pinned favorites
 - Frameless on-desktop window (no taskbar button, rounded corners, remembers position and size, single instance) that auto-fits its height to pinned tickers
 - Built in C# / .NET with Windows Forms and Microsoft WebView2; first launched as an Edge app-mode shortcut, then moved to a native desktop app
-- 브라우저를 열지 않고 데스크톱에서 ETF 시세와 원달러 환율을 보는 윈도우 위젯. C#·WebView2로 구현.
+- Packaged a one-click Windows installer and published a public [share page](https://etf-widget-seojeong.web.app) so other people can put the widget on their own desktop — not just a tool built for myself. One run of the setup file creates a desktop shortcut and launches the widget
+- 브라우저를 열지 않고 데스크톱에서 ETF 시세와 원달러 환율을 보는 윈도우 위젯. 혼자 쓰려고 만든 데 그치지 않고, 다른 사람도 바로 설치해 쓸 수 있게 설치 파일과 공유 페이지를 공개. C#·WebView2로 구현. [설치·공유](https://etf-widget-seojeong.web.app)
 
 ### UCSD Qualcomm Institute AI Capstone (Jan–Feb 2024)
 Participated in AI prediction work on osteoarthritis / osteoporosis (healthcare), presented at KICS.  
