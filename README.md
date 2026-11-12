@@ -43,7 +43,7 @@ AI 기반 영어 학습 브랜드: 웹·커리큘럼·메타버스/3D 학습 공
 - Public site: https://rose-morning-8c171.web.app
 - 3D web school: https://rose-morning-8c171.web.app/school3d/
 - ZEP virtual school: https://zep.us/play/nza4qb
-- City Campus (XR view / XR 화면): https://orchestra-clause-thoughts-offices.trycloudflare.com/?v=25 — first-person campus you can enter as an XR view on a Quest headset, and also open in the browser without a headset. 그룹 영어·AI 학습·소규모 오피스가 있는 1인칭 캠퍼스. Quest 등에서 XR 화면으로 들어가고, 헤드셋 없이도 브라우저에서 열림.
+- City Campus (XR view / XR 화면): https://rose-morning-8c171.web.app/school3d/ — first-person campus you can enter as an XR view on a Quest headset, and also open in the browser without a headset. 그룹 영어·AI 학습·소규모 오피스가 있는 1인칭 캠퍼스. Quest 등에서 XR 화면으로 들어가고, 헤드셋 없이도 브라우저에서 열림.
 - Google sign-in · Google Search Console / Naver Search Advisor · ChannelTalk
 - Iterating Three.js 3D UX from user feedback *(in progress)*
 
